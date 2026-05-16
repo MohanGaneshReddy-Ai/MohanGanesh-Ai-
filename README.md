@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohan Ganesh
+# 👋 Hi, I'm Mohan Ganesh Reddy
 
 🎯 Aspiring AI Engineer | Python | Deep Learning | NLP | Computer Vision  
 🔬 Currently learning AI through top certifications and hands-on projects  
